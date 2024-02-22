@@ -4,6 +4,8 @@ UV3L
 
 In this course, I expect to understand the fundamentals of HTML,  CSS as well as Javascript and be able to apply what I have learned to the creation of a web application.
 
+I do agree that understanding and applying the lessons in CMSC 100 is essential 
+
 
 I agree with Jamaika since the topics covered in CMSC 100 are vital to web development and are also needed for my other future courses.
 -Jenzzo Joyosa
