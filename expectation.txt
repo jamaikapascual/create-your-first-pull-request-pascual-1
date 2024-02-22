@@ -1,1 +1,6 @@
+JAMAIKA T. PASCUAL
+202102167
+UV3L
+
+In this course, I expect to understand the fundamentals of HTML,  CSS as well as Javascript and be able to apply what I have learned to the creation of a web application.
 
